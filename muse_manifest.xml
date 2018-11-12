@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bawasooq.tk" resolutions="1x" timestamp="1542065154846">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bawasooq.tk" resolutions="1x" timestamp="1542065319545">
   <folder name="css">
     <file name="site_global.css" crc="226455819"/>
-    <file name="index.css" crc="424864022" ref="index"/>
-    <file name="nomq_index.css" crc="4149814030" ref="index"/>
+    <file name="index.css" crc="496757462" ref="index"/>
+    <file name="nomq_index.css" crc="3975917221" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -29,8 +29,8 @@
     <file name="u927.png" crc="152044610" ref="index"/>
     <file name="u927-r.png" crc="152044610" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u938.png" crc="3899904216" ref="index"/>
-    <file name="u938-r.png" crc="3899904216" ref="index"/>
+    <file name="u938.png" crc="4041972815" ref="index"/>
+    <file name="u938-r.png" crc="4041972815" ref="index"/>
     <file name="cooltext305406912340542-u5710.png" crc="3921836134" ref="index"/>
     <file name="deathtostock_wired6 copia.jpg" crc="3786149677" ref="index">
       <caption webpage="index" alt=""/>
@@ -40,23 +40,23 @@
     <file name="u865-3.png" crc="4261897506" ref="index"/>
     <file name="u9272.png" crc="152044610" ref="index"/>
     <file name="u927-r2.png" crc="152044610" ref="index"/>
-    <file name="u9382.png" crc="3899904216" ref="index"/>
-    <file name="u938-r2.png" crc="3899904216" ref="index"/>
+    <file name="u9382.png" crc="4041972815" ref="index"/>
+    <file name="u938-r2.png" crc="4041972815" ref="index"/>
     <file name="cooltext305406912340542-u57102.png" crc="4086069627" ref="index"/>
     <file name="u865-32.png" crc="411580032" ref="index"/>
     <file name="u9273.png" crc="152044610" ref="index"/>
     <file name="u927-r3.png" crc="152044610" ref="index"/>
-    <file name="u9383.png" crc="3899904216" ref="index"/>
-    <file name="u938-r3.png" crc="3899904216" ref="index"/>
+    <file name="u9383.png" crc="4041972815" ref="index"/>
+    <file name="u938-r3.png" crc="4041972815" ref="index"/>
     <file name="cooltext305406912340542-u57103.png" crc="4093902354" ref="index"/>
     <file name="deathtostock_wired6 copia-u710-fr.jpg" crc="128836413" ref="index"/>
     <file name="u865-33.png" crc="4261897506" ref="index"/>
     <file name="u9274.png" crc="152044610" ref="index"/>
     <file name="u927-r4.png" crc="152044610" ref="index"/>
-    <file name="u9384.png" crc="3899904216" ref="index"/>
-    <file name="u938-r4.png" crc="3899904216" ref="index"/>
+    <file name="u9384.png" crc="4041972815" ref="index"/>
+    <file name="u938-r4.png" crc="4041972815" ref="index"/>
     <file name="cooltext305406912340542-u57104.png" crc="3810494695" ref="index"/>
     <file name="u865-34.png" crc="4261897506" ref="index"/>
   </folder>
-  <file name="index.html" crc="4260044550" seo="true" mt="1542065138146" redirect="true"/>
+  <file name="index.html" crc="3996257039" seo="true" mt="1542065301078" redirect="true"/>
 </manifest>
