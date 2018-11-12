@@ -1,0 +1,62 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.bawasooq.tk" resolutions="1x" timestamp="1542061368979">
+  <folder name="css">
+    <file name="site_global.css" crc="226455819"/>
+    <file name="index.css" crc="418068062" ref="index"/>
+    <file name="nomq_index.css" crc="105699603" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u644.php" crc="299725230" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="4041061761" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u927.png" crc="152044610" ref="index"/>
+    <file name="u927-r.png" crc="152044610" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u938.png" crc="3899904216" ref="index"/>
+    <file name="u938-r.png" crc="3899904216" ref="index"/>
+    <file name="cooltext305406912340542-u5710.png" crc="3921836134" ref="index"/>
+    <file name="deathtostock_wired6 copia.jpg" crc="3786149677" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u865-3.png" crc="4261897506" ref="index"/>
+    <file name="u9272.png" crc="152044610" ref="index"/>
+    <file name="u927-r2.png" crc="152044610" ref="index"/>
+    <file name="u9382.png" crc="3899904216" ref="index"/>
+    <file name="u938-r2.png" crc="3899904216" ref="index"/>
+    <file name="cooltext305406912340542-u57102.png" crc="4086069627" ref="index"/>
+    <file name="u865-32.png" crc="411580032" ref="index"/>
+    <file name="u9273.png" crc="152044610" ref="index"/>
+    <file name="u927-r3.png" crc="152044610" ref="index"/>
+    <file name="u9383.png" crc="3899904216" ref="index"/>
+    <file name="u938-r3.png" crc="3899904216" ref="index"/>
+    <file name="cooltext305406912340542-u57103.png" crc="4093902354" ref="index"/>
+    <file name="deathtostock_wired6 copia-u710-fr.jpg" crc="128836413" ref="index"/>
+    <file name="u865-33.png" crc="4261897506" ref="index"/>
+    <file name="u9274.png" crc="152044610" ref="index"/>
+    <file name="u927-r4.png" crc="152044610" ref="index"/>
+    <file name="u9384.png" crc="3899904216" ref="index"/>
+    <file name="u938-r4.png" crc="3899904216" ref="index"/>
+    <file name="cooltext305406912340542-u57104.png" crc="3810494695" ref="index"/>
+    <file name="u865-34.png" crc="4261897506" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3976538005" seo="true" mt="1542060887927" redirect="true"/>
+</manifest>
