@@ -933,6 +933,23 @@ p { margin: 0 0 1em; }
   transform-origin: left;
   opacity: .85;
 }
+.founder__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 30px;
+}
+.btn--fb {
+  background: #1877f2;
+  color: var(--white);
+  box-shadow: 0 12px 28px -12px rgba(24, 119, 242, .7);
+}
+.btn--fb:hover { background: #0f63d6; }
+.btn--outline {
+  border-color: var(--green-900);
+  color: var(--green-900);
+}
+.btn--outline:hover { background: var(--green-900); color: var(--white); }
 
 /* =========================================================
    CONTACT
@@ -979,6 +996,7 @@ a.contact__item:hover {
   background: var(--green-800);
 }
 .contact__icon--wa { background: #1fa855; }
+.contact__icon--fb { background: #1877f2; }
 .contact__icon svg { width: 22px; height: 22px; fill: var(--white); }
 .contact__label {
   display: block;
@@ -1092,6 +1110,18 @@ a.contact__item:hover {
 .brand--footer { color: var(--white); }
 .footer__text { margin: 0; }
 .footer__text strong { color: var(--white); font-weight: 600; }
+.footer__social { display: flex; gap: 10px; }
+.footer__social a {
+  width: 42px; height: 42px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, .06);
+  border: 1px solid rgba(255, 255, 255, .1);
+  transition: background .25s, transform .25s var(--ease);
+}
+.footer__social a:hover { background: var(--green-800); transform: translateY(-3px); }
+.footer__social svg { width: 18px; height: 18px; fill: var(--white); }
 .footer__copy { margin: 0; width: 100%; font-size: 14px; opacity: .7; padding-top: 24px; border-top: 1px solid rgba(255, 255, 255, .06); }
 
 /* =========================================================
